@@ -1,4 +1,4 @@
-# AI Tutor Platform (Mini Logiscool)
+# AI Tutor Platform 
 
 **Goal:** Personalized coding challenges for kids, with progress tracking.  
 **Stack:** Next.js (or minimal Node demo), API routes, tests, CI.
